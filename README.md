@@ -9,3 +9,5 @@ This file consists a long list of random numbers. Copy the file to your hard dri
 * The average of all the numbers in the file
 
 The program should display the number of numbers found in the field, the sum of the numbers, and the average of the numbers.
+
+![Book Excerpt](chapter5.png)
